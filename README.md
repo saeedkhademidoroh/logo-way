@@ -1,6 +1,6 @@
 # LogoWay
 
-**LogoWay** is an open-source framework for designing, testing, and refining generative prompts for animated logos using tools like RunwayML. It helps creators and engineers collaborate around prompt logic, visual feedback, and iteration workflows.
+**LogoWay** is a open-source framework for designing, testing, and refining generative prompts for animated logos using tools like RunwayML. It helps creators and engineers collaborate around prompt logic, visual feedback, and iteration workflows.
 
 ## 🔧 Features
 
