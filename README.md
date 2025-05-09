@@ -4,4 +4,4 @@
 
 # logo-way
 
-**logo-way** is a open-source framework for designing, testing, and refining generative prompts for animated logos using tools like RunwayML. It helps creators and engineers collaborate around prompt logic, visual feedback, and iteration workflows.
+**logo-way** is an AI-augmented core for LogoWay
