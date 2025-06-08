@@ -1,1 +1,0 @@
-Animate the logo with a classic typewriter effect. Each Persian letter appears one by one in right-to-left order, with a subtle mechanical snap and slight bounce. Use a clean white background, centered text, fixed-width Persian font style. No sound, no extra effects.
